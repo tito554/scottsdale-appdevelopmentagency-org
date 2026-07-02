@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scottsdale.appdevelopmentagency.org/sitemap.xml
